@@ -1,0 +1,33 @@
+/*body styling */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #FFA500;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+/*container styling */
+#app-container {
+  background-color: #ffff00;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+/*button styling */
+button {
+  padding: 10px;
+  background-color: #4caf50;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+  margin-top: 10px;
+}
+/*styling for recipe container */
+#recipeContainer {
+  margin-top: 20px;
+}
